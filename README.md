@@ -1,2 +1,2 @@
-# stfu-splashcani
+# stfu-splashcani-no-u
 fish
